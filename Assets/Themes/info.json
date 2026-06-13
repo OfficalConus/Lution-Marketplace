@@ -23,6 +23,9 @@
   },
   { "name": "Old Shiny Menu", "path": "Assets/Themes/Content/OldShinyMenu.zip" },
   { "name" : "[HEAVY] Ro2020", "path" : "Assets/Themes/Content/Ro2020.zip"},
-
-  { "name" : "Old Stuff", "path" : "Assets/Themes/Content/Old-Stuff.zip"}
+  { "name" : "Old Stuff", "path" : "Assets/Themes/Content/Old-Stuff.zip"},
+  {
+    "name": "Catppuccin Mocha Theme",
+    "path": "Assets/Themes/Content/catppuccin-mocha-theme.zip"
+  }
 ]

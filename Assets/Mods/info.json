@@ -3,5 +3,6 @@
     {"name" : "Peak Avatar editor","path": "Assets/Mods/Content/PeakAvatarEditor.zip"},
     {"name" : "Black N White emote wheel","path": "Assets/Mods/Content/BlackNWhite.zip"},
     {"name" : "Red jesus when you take damage","path": "Assets/Mods/Content/RedJesus.zip"},
-    {"name" : "Modern Classic Cursor","path": "Assets/Mods/Content/mordenclassic.zip"}
+    {"name" : "Modern Classic Cursor","path": "Assets/Mods/Content/mordenclassic.zip"},
+    {"name" : "Catppuccin Mocha Cursor","path": "Assets/Mods/Content/catppuccin-mocha-cursor.zip"}
 ]

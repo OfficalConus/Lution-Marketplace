@@ -79,6 +79,14 @@
     "button": "Download",
     "creator": "vercedius on Discord",
     "sb": "unstable"
+  },
+  {
+    "title": "Catppuccin Mocha Theme",
+    "body": "A soothing dark theme for Roblox using Catppuccin Mocha colors. Features pastel purple, blue, and pink accents on a dark base.",
+    "image": "https://raw.githubusercontent.com/Wookhq/Lution-Marketplace/main/Assets/thumbnails/catppuccin-mocha.png",
+    "button": "Download",
+    "creator": "xconus",
+    "sb": "stable",
+    "version": "1.0.0"
   }
 ]
-
